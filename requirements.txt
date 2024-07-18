@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+biopython==1.83
+fastparquet==2024.2.0
+pandas==2.0.3
+py4j==0.10.9.7
+pyspark==3.5.1
+virtualenv==20.26.3
+
